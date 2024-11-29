@@ -1,0 +1,10 @@
+body {
+    margin: auto;
+    font-family: 'Montserrat';
+    font-weight: bold;
+    background-image: url("coba.png");
+    background-repeat: repeat;
+    background-size: 70px;
+    background-position: -6px, 20px;
+    overflow-y: auto;
+  }
